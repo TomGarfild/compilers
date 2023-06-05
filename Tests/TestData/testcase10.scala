@@ -1,0 +1,3 @@
+class OneField {
+  x: Int
+}
